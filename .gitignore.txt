@@ -1,0 +1,10 @@
+.gradle/
+.dart_tool/
+.idea/
+build/
+.pub-cache/
+android/.gradle/
+android/app/build/
+*.apk
+*.aab
+.DS_Store
